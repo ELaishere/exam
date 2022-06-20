@@ -20,14 +20,14 @@
       <item>
        <widget class="QLabel" name="txt_student_id">
         <property name="text">
-         <string>将此处的内容替换成你自己的学号</string>
+         <string>2220203242</string>
         </property>
        </widget>
       </item>
       <item>
        <widget class="QLabel" name="txt_student_name">
         <property name="text">
-         <string>将此处的内容替换成你自己的姓名</string>
+         <string>任芍廷</string>
         </property>
        </widget>
       </item>
@@ -48,7 +48,7 @@
       <item>
        <widget class="QLabel" name="txt_name">
         <property name="text">
-         <string>姓名拼音：</string>
+         <string>renshaoting：</string>
         </property>
        </widget>
       </item>
